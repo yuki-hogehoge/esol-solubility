@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+node_modules/
+# データは配布元のライセンスを確認してから追加する(基本は URL から読み込む)
+data/
