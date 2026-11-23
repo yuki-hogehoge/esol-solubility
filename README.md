@@ -16,7 +16,7 @@ RDKitで分子記述子を計算し、水溶解度(logS)との関係を調べる
 ## 進捗
 | Day | 内容 | ノートブック | 記事 |
 |---|---|---|---|
-| 1 | データ確認、記述子の計算、相関と回帰(statsmodels) | `notebooks/01_eda_day1.ipynb` | `articles/esol-day1-eda.md` |
+| 1 | データ確認、記述子の計算、相関と回帰(statsmodels) | `notebooks/01_eda_day1.ipynb` | [Zenn](https://zenn.dev/yuki_hogehoge/articles/esol-day1-eda) |
 | 2 | ベースラインモデル(学習/検証分割、線形回帰、ランダムフォレスト) | (予定) | (予定) |
 
 ## Day 1 の主な結果
